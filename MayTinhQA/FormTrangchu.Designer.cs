@@ -222,6 +222,7 @@ namespace MayTinhQA
             this.DMnhucausp.Name = "DMnhucausp";
             this.DMnhucausp.Size = new System.Drawing.Size(311, 34);
             this.DMnhucausp.Text = "Nhu cầu sản phẩm";
+            this.DMnhucausp.Click += new System.EventHandler(this.DMnhucausp_Click);
             // 
             // pictureBox2
             // 

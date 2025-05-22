@@ -137,5 +137,11 @@ namespace MayTinhQA
             frmlichsu lichsu = new frmlichsu();
             lichsu.ShowDialog();
         }
+
+        private void DMnhucausp_Click(object sender, EventArgs e)
+        {
+            frmnhucausp nhucausp = new frmnhucausp();
+            nhucausp.ShowDialog();
+        }
     }
 }
